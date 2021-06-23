@@ -1,9 +1,0 @@
-My First file in Git
-
-My second line
-
-My third line
-
-
-My fourth line 
-
